@@ -1,0 +1,93 @@
+D:\C#\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe.config
+D:\C#\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe
+D:\C#\FractalProgect\FractalProgect\bin\Debug\FractalProgect.pdb
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.AssemblyReference.cache
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.SuggestedBindingRedirects.cache
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Form1.resources
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Properties.Resources.resources
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.GenerateResource.cache
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CoreCompileInputs.cache
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe
+D:\C#\FractalProgect\FractalProgect\obj\Debug\FractalProgect.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe.config
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\FractalProgect.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.AssemblyReference.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Form1.resources
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Properties.Resources.resources
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.GenerateResource.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CoreCompileInputs.cache
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Buffers.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Memory.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Buffers.xml
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Memory.xml
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe.config
+C:\Users\ilya0\OneDrive\Рабочий стол\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CopyComplete
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe.config
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.pdb
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Buffers.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Memory.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Buffers.xml
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Memory.xml
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.AssemblyReference.cache
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe.config
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Form1.resources
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Properties.Resources.resources
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.GenerateResource.cache
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CoreCompileInputs.cache
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CopyComplete
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe
+C:\Users\Mukha\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.pdb
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe.config
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.exe
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\FractalProgect.pdb
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe.config
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Form1.resources
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.exe
+C:\Users\Кирилл\Desktop\FractalProgect\FractalProgect\obj\Debug\FractalProgect.pdb
